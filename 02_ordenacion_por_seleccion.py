@@ -1,4 +1,9 @@
 
+# all : ordena los valores de menor a mayor es lento pero es ideal para usar con listas enlazadas, de esta forma podras leer mucho mas rapido los elementos , si necesidad de hacer una copia entera del array
+
+
+
+
 def encuentraMenor(array):
     menor = array[0] #! indica el valor menor
     indice_menor = 0 #! indica el indice del valor menor 

@@ -1,4 +1,5 @@
 
+# all : encuntra cualquier elemento mucho mas rapido que una busqueda ordinaria ya que dividide el carga por logica entre valores menores y mayores pero esto solo si conoce la posicion en la que se encuentra el elemento
 
 def busqueda_binaria(lista, elemento):
 
